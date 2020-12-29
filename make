@@ -2,7 +2,7 @@
 SFMLPATH=SFML-2.5.1
 IPATH=${SFMLPATH}/include
 LPATH=${SFMLPATH}/lib
-APPNAME=figure-mover
+APPNAME=shape-mover
 MAIN=main
 
 g++ \
