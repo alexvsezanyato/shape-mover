@@ -5,6 +5,7 @@
 *.slo
 *.lo
 *.o
+obj/*.o
 *.obj
 
 # Precompiled Headers
@@ -35,4 +36,9 @@
 *.zip
 
 # Report files
-REPORT*.*
+*REPORT*.*
+doc/*REPORT*.*
+
+# Uml
+*.xmi
+doc/*.xmi
